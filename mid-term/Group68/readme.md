@@ -1,2 +1,2 @@
-Student 1: 
-Student 2: 
+Student 1: Josua Lutian
+Student 2: Wenxuan Li 
